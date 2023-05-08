@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Hayrettinozkan
+- 
 2017 yılında Karadeniz Teknik Üniversitesi, Bilgisayar ve Öğretim Teknolojileri Eğitimi bölümünden mezun oldum. HTML, CSS ve JavaScript ile ilgiliyim. Son birkaç yıldan beri yazılım geliştirme konularına ilgi duyuyorum.
 
  Alanım her ne kadar öğretmenlik olsa da; eğitimim boyunca ve sonrasında yazılım ve teknoloji konularında geniş bir ilgi ve bilgi birikimi edinmeye çalıştım. Profesyonel hayatımda, kendimi geliştirmek için her zaman çaba sarf ettim. Bilmediğim konular hakkında araştırmalar yapmak, gerektiğinde eğitim almak benim için önceliklidir. Bu sayede kendimi sürekli yeniliyorum. İletişime daima önem veririm 
